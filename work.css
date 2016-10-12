@@ -1,0 +1,133 @@
+body{
+	width: 1260px;
+
+	background-color:#EDF2C5;
+}
+.container{
+	margin: 0px 150px 0px 150px;
+}
+
+.vegetables{
+color:#889C5B;
+font-family:Arial black;
+font-size: 44px;
+padding:50px 466px 10px 0px;
+float: left;
+margin: 0;
+}
+.pictures{
+float: left;
+margin: 80px 0px 0px 0px;
+padding: 0;
+}
+hr{
+border:0px;
+height:20px;
+width:1px;
+background-color:#778A50;
+float: left;
+margin: 85px 0px 0px 10px;
+}
+.button{
+border:1px solid #75874F;
+padding:0;
+background-color:#EDF2C5;
+font-family:Arial black;
+color:#778A50;
+font-size: 12px;
+height: 20px;
+border-radius: 3px;
+float: left;
+margin: 83px 0px 17px 8px;
+}
+p{
+	padding: 5px 9px 5px 9px;
+	margin: -4px 0 0 -1px;
+}
+#login{
+width: 60px;
+margin-left: 10px;
+}
+#join{
+width: 50px;
+}
+.clear{
+	clear: both;
+}
+ul{
+margin: 0;
+padding: 0;
+}
+li{
+float:left;
+list-style: none;
+background-color:#889C5B;
+color: #EDF2C5;
+font-family: Arial black;
+padding: 16px 29px 16px 31px;
+margin-bottom: 20px;
+}
+#nav-h{
+border-top-left-radius: 5px;
+border-bottom-left-radius: 5px;
+}
+#nav-c{
+padding-right: 254px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+.imgtitle{
+	width: 468px;
+	float: left;
+	margin-bottom: 34px;
+}
+.imgtitle img{
+	margin-right: 10px;
+	margin-left: -1px;
+}
+.size{
+font-family:Arial black;
+color: #EDF2C5;
+padding: 16px 0px 16px 31px;
+width: 413px;
+background-color: #889C5B;
+border-radius: 5px;
+}
+.contact{
+width: 444px;
+float: right;
+margin-right: 19px;
+}
+.information{
+background-color:#F5F8B9;
+width: 444px;
+height: 140px;
+border-radius: 5px;
+}
+.information p{
+font-family: Arial;
+font-size: 12px;
+color: #898989;
+padding: 15px 15px 0px 15px;
+}
+.contact hr{
+margin: 15px 0 15px 15px;
+border:0px;
+height:1px;
+width:413px;
+background-color: #898989;
+}
+
+footer div{
+	margin: 0;
+	width: 1260px;
+	height: 60px;
+	background-color: #889C5B;
+}
+footer p {
+/*border: 1px solid black;*/
+font-family: Arial black;
+font-size: 12px;
+color:#EDF2C5;
+padding: 24px 0px 24px 463px;
+}
